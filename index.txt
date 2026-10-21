@@ -1,0 +1,2 @@
+git init
+Voici une modification du fichier.
